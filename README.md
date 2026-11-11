@@ -8,3 +8,4 @@ Struktura repozitáře:
 main – čistá větev bez úkolů
 
 cviceni4 - robust processing chain
+cviceni5 - klasifikace v praxi
